@@ -37,14 +37,13 @@ class Shape : public Printable {
 class Square : public Shape {
 };
 
-int main() {
-    /*A* A_ptr = new A();
-    A* B_ptr = new B();
-    A_ptr->SetStatus("sal");
-    B_ptr->SetStatus("sall");
-    cout << A_ptr->GetStatus();
-    cout << B_ptr->GetStatus();
-    delete A_ptr;
-    delete B_ptr;*/
-    Square patrat;
-}
+//int main() {
+//    /*A* A_ptr = new A();
+//    A* B_ptr = new B();
+//    A_ptr->SetStatus("sal");
+//    B_ptr->SetStatus("sall");
+//    cout << A_ptr->GetStatus();
+//    cout << B_ptr->GetStatus();
+//    delete A_ptr;
+//    delete B_ptr;*/
+//}
