@@ -21,5 +21,13 @@
     <ClCompile Include="labpoo2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LocParcare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LocParcare.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
